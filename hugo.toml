@@ -1,0 +1,26 @@
+baseURL = "https://ngocdat784.github.io/"
+languageCode = "vi"
+title = "Ký sự Lập trình Web & JavaScript"
+theme = "paper"
+
+relativeURLs = false
+canonifyURLs = true
+
+[params]
+description = "Chia sẻ kiến thức Java, JavaScript và lập trình mạng cho sinh viên"
+
+[[menu.main]]
+  name = "Trang chủ"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "Bài viết"
+  url = "/posts/"
+  weight = 2
+
+[[menu.main]]
+  name = "Profile"
+  url = "/about/"
+  weight = 3
+
